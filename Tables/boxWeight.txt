@@ -1,0 +1,6 @@
+"ID" "boxName" "Description" "emptyWeight"
+1 "CNDS01" "CNDS01" 172
+2 "CNDS02" "CNDS02" 280
+3 "CNDS03" "CNDS03" 402
+4 "CNDS04" "CNDS04" 832
+5 "CNDS04" "CNDS04" 

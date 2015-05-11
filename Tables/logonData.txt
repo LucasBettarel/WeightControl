@@ -1,0 +1,6 @@
+"ID" "SESA" "Packer Name" "Shift" "Team" "Admin" "password"
+1 "SESA175901" "Stephen" 1 1 1 
+2 "Admin" "Admin"   1 "Admin"
+3 "SESA241075" "LOCAL"   0 
+4 "SESA212172" "Arvin" 1 1 0 
+5 "SESA282699" "EXPORT" 1 1 0 

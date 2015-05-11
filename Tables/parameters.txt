@@ -1,0 +1,2 @@
+"ID" "server" "system" "client" "language" "system number"
+1 "prhci.sg.schneider-electric.com" "PRH" "200" "EN" "00"

@@ -1,0 +1,6 @@
+"ID" "Workstation" "printer" "scalePort" "coefficientLightest" "Weight Control" "EAN Quality Check"
+3 "LOCAL" "ZDesigner ZT230-200dpi ZPL" 5 0.50 1 1
+4 "EXPORT - WC1" "ZDesigner ZT230-200dpi ZPL" 8 0.50 1 0
+6 "EXPORT - WC2" "ZDesigner ZT230-200dpi ZPL" 8 0.50 1 0
+7 "EXPORT - EAN CHECK" "ZDesigner ZT230-200dpi ZPL" 8 0.50 0 1
+8 "EXPORT - ADMIN" "ZDesigner ZT230-200dpi ZPL" 8 0.50 1 1
