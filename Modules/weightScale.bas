@@ -130,6 +130,7 @@ Do While check = 0
               strDataConv3 = Mid(strData3, InStr(strData3, "!") + 1, 6)
               strDataConv3 = Trim(strDataConv3)
                Form_weightInput.weightMeasuredData = strDataConv3
+               Form_CalibrationInput.weightMeasuredData = strDataConv3
                Form_Main.measuredWeight = strDataConv3
                check = 1
                
