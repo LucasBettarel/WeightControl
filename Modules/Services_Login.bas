@@ -116,14 +116,14 @@ If action = "login" Then
 End If
 
 If action = "focusEAN" Then
+Form_Main.Material_Control.Visible = True
+Form_Main.Material_Control.SetFocus
     If Not ADMIN Then
        Form_Main.Weight_Control.Visible = False
         Form_Main.Quality_KPI.Visible = False
         Form_Main.Settings.Visible = False
         Form_Main.Calibration.Visible = False
     End If
-Form_Main.Material_Control.Visible = True
-Form_Main.Material_Control.SetFocus
 End If
 
 If action = "completed_test" Then
